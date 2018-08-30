@@ -1,0 +1,3 @@
+
+Precision_@_5 :0.6
+Precision_@_20 :0.45

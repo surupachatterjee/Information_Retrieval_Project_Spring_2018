@@ -1,0 +1,1 @@
+a stopping criterion for the newtonraphson method in implicit multistep integration algorithms for nonlinear systems of ordinary differential equations cacm september 1971 liniger w ordinary differential equations linear multistep formulas newtonraphson method stopping criterion 511 515 517 ca710906 jb february 2 1978 213 pm 2158 5 2158 2158 5 2158 2158 5 2158 

@@ -1,0 +1,1 @@
+ data code for calendar date for machinetomachine data interchange proposed usa standard cacm april 1968 usa standard data code calendar date machinetomachine data interchange recording calendar date data group identifier 20 211 219 23 240 243 249 350 352 353 355 356 359 370 371 373 374 379 381 41 49 ca680413 jb february 23 1978 1018 am 1757	5	1757 1757	5	1757 1757	5	1757 

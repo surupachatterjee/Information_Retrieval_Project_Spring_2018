@@ -1,0 +1,2 @@
+Mean Average Precision : 0.19614758019192752
+Mean Reciprocal Rank : 0.6259111679479342

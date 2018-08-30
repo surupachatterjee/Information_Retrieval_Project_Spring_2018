@@ -1,0 +1,1 @@
+ a note on a modification of nordsiecks method using an offstep point cacm december 1971 blumberg j w foulk c r ordinary differential equations multistep methods predictor corrector roundoff error nordsiecks method graggstetter modification 511 516 517 ca711207 jb february 2 1978 952 am 2136	5	2136 2136	5	2136 2136	5	2136 

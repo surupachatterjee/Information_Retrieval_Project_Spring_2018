@@ -1,0 +1,164 @@
+1:articles exist deal tss time sharing system an
+operating system ibm computers,
+2:interested articles written prieve udo pooch prieve b
+pooch,
+3:intermediate languages construction multitargeted compilers tcoll,
+4:im interested mechanisms communicating disjoint processes
+possibly exclusively distributed environment would
+rather descriptions complete mechanisms implementations
+as opposed theoretical work abstract problem remote procedure
+calls messagepassing examples interests,
+5:id papers design implementation editing interfaces
+windowmanagers command interpreters essential issues are
+human interface design views improvements user efficiency
+effectiveness satisfaction,
+6:interested articles robotics motion planning the
+geometric combinatorial aspects interested the
+dynamics arm motion,
+7:interested distributed algorithms  concurrent programs in
+which processes communicate synchronize message passing
+areas interest include faulttolerance techniques
+for understanding correctness algorithms,
+8:addressing schemes resources networks resource addressing in
+network operating systems,
+9:security considerations local networks network operating systems
+and distributed systems,
+10:parallel languages languages parallel computation,
+11:setl high level languages,
+12:portable operating systems,
+13:code optimization space efficiency,
+14:find discussions optimal implementations sort algorithms for
+database management applications,
+15:find discussions horizontal microcode optimization special
+emphasis optimization loops global optimization,
+16:find descriptions handling operating systems based on
+multiple processes message passing,
+17:optimization intermediate machine code,
+18:languages compilers parallel processors especially highly
+horizontal microcoded machines code compaction,
+19:parallel algorithms,
+20:graph theoretic algorithms applicable sparse matrices,
+21:computational complexity intractability classcomplete reductions
+algorithms efficiency,
+22:interested hiddenline hiddensurface algorithms for
+cylinders toroids spheres cones specialized
+topic computer graphics,
+23:distributed computing structures algorithms,
+24:applied stochastic processes,
+25:performance evaluation modelling computer systems,
+26:concurrency control mechanisms operating systems,
+27:memory management aspects operating systems,
+28:information packet radio networks interest are
+algorithms packet routing dealing in
+network topography interested hardware the
+network,
+29:numbertheoretic algorithms especially involving prime number series
+sieves chinese remainder theorem,
+30:articles text formatting systems including you
+get systems examples tnroff scribe bravo,
+31:id find articles describing singular decomposition
+in digital image processing applications include finding approximations
+to original image restoring images subject noise an
+article subject andrews patterson outer product
+expansions digital image processing american mathematical andrews h
+patterson,
+32:id find articles describing graph algorithms based on
+the eigenvalue decomposition singular decomposition the
+ajacency matrix graph im especially interested heuristic
+algorithms graph coloring graph isomorphism method,
+33:articles sensitivity eigenvalue decomposition real
+matrices zeroone matrices im especially interested in
+the separation eigenspaces distinct eigenvalues
+articles subject
+c davis kahn rotation eigenvectors permutation
+siam numerical analysis vol 7 1 1970 stewart error
+bounds approximate invariant subspaces closed linear operators
+siam numerical analysis vol 8 4 1971 davis c
+kahn w
+stewart,
+34:interested isolation root polynomial old
+more recent material heindel,
+35:probabilistic algorithms especially dealing algebraic and
+symbolic manipulation examples
+rabiin probabilistic algorithm finite field siam
+waztch probabilistic testing polynomial identities siam rabinm,
+36:fast algorithm contextfree language recognition parsing,
+37:articles describing relationship data types concurrency
+eg type process synchronization attempt processes type correct messagepassing system there
+any notion types messagesie check sender
+of message receiver treating bit stream some
+particular type,
+38:type module	i dont want entire literature on
+abstract data types im sure phrase avoid it
+im interested questions check module matches
+contexts,
+39:type compatibility mean languages allow programmer
+defined types want restrict extensible languages
+that allow definition abstract data types programmersupplied
+definitions operators,
+40:list articles dealing data types languages
+that referenced frequently papers languages catch
+any languages interesting type structures missed,
+41:theory distributed systems databases subtopics special
+interest include reliability faulttolerance distributed systems
+atomicity distributed transactions synchronization algorithms resource allocation lower bounds models asynchronous parallel
+systems theory communicating processes protocols box 2158 yale station haven conn 06520,
+42:computer performance evaluation techniques pattern recognition
+and clustering la 70803,
+43:analysis perception shape humans computers shape
+descriptions shape recognition computer twodimensional shapes
+measures circularity shape matching,
+44:texture analysis computer	digitized texture analysis texture
+synthesis perception texture,
+45:operations research models optimize information system
+performance includes fine tuning decisions secondary index
+selection reorganization distributed databases,
+46:application fuzzy subset theory clustering information
+retrieval problems includes performance evaluation automatic
+indexing considerations,
+47:bayesian decision models optimize information retrieval
+system performance includes stopping rules determine a
+user cease scanning output retrieval search,
+48:computer science principles data structures numerical methods generating optimization linear programming
+algorithms includes issues khachian russian ellipsoidal
+algorithm complexity algorithms,
+49:role information retrieval knowledge based systems
+ie expert systems,
+50:parallel processors information retrieval,
+51:parallel processors paging algorithms,
+52:modelling simulation agricultural ecosystems,
+53:mathematical induction group theory integers modulo m
+probability binomial coefficients binomial theorem homomorphism
+morphism transitivity relations relation matrix syracuse university 313 link hall syracuse 13210,
+54:semantics programming languages including abstract specifications
+of data types denotational semantics proofs correctness hoare a
+dijkstra university massachusetts amherst ma 01003,
+55:dealing star height regular languages regular
+expressions regular events,
+56:articles relation algebraic theory semigroups monoids
+to study automata regular languages,
+57:abstracts articles backus programming liberated von neumann style functional style algebra programs cacm 21 re millo lipton perlis letter acm forum cacm 22 1979 629630 backus j
+de millo r
+lipton r
+perlis,
+58:algorithms statistical packages anova regression least
+squares generalized linear models system design capabilities
+statistical formula interest students test wilcoxon and
+sign tests multivariate univariate components included,
+59:dictionary construction accessing methods fast retrieval
+of words lexical items morphologically related information
+hashing indexing methods applied english spelling or
+natural language problems,
+60:hardware software relating database management systems
+database packages back end computers special associative hardware
+with microcomputers attached disk heads things rap relational network codasyl hierarchical models systems
+like system ims adabas total,
+61:information retrieval articles gerard salton clustering
+bibliographic coupling citations cocitations vector
+space model boolean search methods inverted feedback salton,
+62:results relating parallel complexity theory prams and
+uniform circuits,
+63:algorithms parallel computation especially comparisons
+between parallel sequential algorithms,
+64:list articles el1 ecl el1 el1 dont
+remember,

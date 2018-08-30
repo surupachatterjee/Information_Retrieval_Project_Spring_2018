@@ -1,0 +1,1 @@
+representation for calen dar date for machinetomachine data interchange proposed american national standard cacm january 1970 calendar date machinetomachine interchange month year day representation coded 370 373 374 39 ca700114 jb february 14 1978 142 pm 2117 5 2117 2117 5 2117 2117 5 2117 

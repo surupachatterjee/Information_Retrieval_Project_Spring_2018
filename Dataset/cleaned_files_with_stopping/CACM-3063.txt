@@ -1,0 +1,1 @@
+ a note on virtual memory indexes none cacm september 1978 maly k index btree pages file organization linked representation maintenance costs 302 350 351 373 374 ca780909 dh january 29 1979 636 pm 3058	4	3063 3063	4	3063 2978	5	3063 3063	5	3063 3063	5	3063 3063	5	3063 

@@ -1,0 +1,1 @@
+generation of permutations in lexicographic order algorithm 323 g6 cacm february 1968 ordsmith r j permutations lexicographic order lexicographic generation permutation generation 539 ca680205 jb february 23 1978 1204 pm 1777 5 1777 1777 5 1777 1777 5 1777 1814 5 1777 1777 6 1777 
